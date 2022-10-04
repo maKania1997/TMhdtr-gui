@@ -1,0 +1,14 @@
+C:\Users\tmnd_360\OneDrive\Desktop\KaniaM\TMhdtr-gui\TMhdtr-gui\obj\Release\MainWindow.g.cs
+C:\Users\tmnd_360\OneDrive\Desktop\KaniaM\TMhdtr-gui\TMhdtr-gui\obj\Release\App.g.cs
+C:\Users\tmnd_360\OneDrive\Desktop\KaniaM\TMhdtr-gui\TMhdtr-gui\obj\Release\TMhdtr-gui_MarkupCompile.cache
+C:\Users\tmnd_360\OneDrive\Desktop\KaniaM\TMhdtr-gui\TMhdtr-gui\obj\Release\TMhdtr-gui_MarkupCompile.lref
+C:\Users\tmnd_360\OneDrive\Desktop\KaniaM\TMhdtr-gui\TMhdtr-gui\bin\Release\TMhdtr-gui.exe.config
+C:\Users\tmnd_360\OneDrive\Desktop\KaniaM\TMhdtr-gui\TMhdtr-gui\bin\Release\TMhdtr-gui.exe
+C:\Users\tmnd_360\OneDrive\Desktop\KaniaM\TMhdtr-gui\TMhdtr-gui\bin\Release\TMhdtr-gui.pdb
+C:\Users\tmnd_360\OneDrive\Desktop\KaniaM\TMhdtr-gui\TMhdtr-gui\obj\Release\MainWindow.baml
+C:\Users\tmnd_360\OneDrive\Desktop\KaniaM\TMhdtr-gui\TMhdtr-gui\obj\Release\TMhdtr-gui.g.resources
+C:\Users\tmnd_360\OneDrive\Desktop\KaniaM\TMhdtr-gui\TMhdtr-gui\obj\Release\TMhdtr_gui.Properties.Resources.resources
+C:\Users\tmnd_360\OneDrive\Desktop\KaniaM\TMhdtr-gui\TMhdtr-gui\obj\Release\TMhdtr-gui.csproj.GenerateResource.cache
+C:\Users\tmnd_360\OneDrive\Desktop\KaniaM\TMhdtr-gui\TMhdtr-gui\obj\Release\TMhdtr-gui.csproj.CoreCompileInputs.cache
+C:\Users\tmnd_360\OneDrive\Desktop\KaniaM\TMhdtr-gui\TMhdtr-gui\obj\Release\TMhdtr-gui.exe
+C:\Users\tmnd_360\OneDrive\Desktop\KaniaM\TMhdtr-gui\TMhdtr-gui\obj\Release\TMhdtr-gui.pdb
